@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew
 - 👀 I’m interested in gaming, art, and fiction.
-- 🌱 I’m currently enrolled in Get Coding!
+- 🌱 I’m currently getting started with Get Coding!
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
