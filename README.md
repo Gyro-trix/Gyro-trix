@@ -1,11 +1,14 @@
-- 👋 Hi, I’m Matthew
-- 👀 I’m interested in gaming, art, and fiction.
-- 🌱 I’m currently getting started with Get Coding!
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-<!---
-Gyro-trix/Gyro-trix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋, Goody Day, my name is Matthew
+#### Gamer, Hopeful Creator, Just starting with Get Coding!
+![Gamer, Hopeful Creator, Just starting with Get Coding!](https://github.com/Gyro-trix/Gyro-trix/blob/main/SimpleBanner.jpg)
+
+Eventually I want to either create or help create a game that others can enjoy. Currently I spend my time painting and sketching in my spare time.
+
+Skills: Gamemaker, Adobe Production Suite C6, Unreal 4, Maya
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning HTML/CSS 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Gyrotrix)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Gyrotix)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://matthewdgarrett.wordpress.com)  
+
