@@ -1,6 +1,6 @@
 <h1> Hi there 👋, Goody Day, my name is Matthew </h1>
 
-<h2> Gamer, Hopeful Creator, Just starting with Get Coding! </h2>
+<h2> ![Gamer, Hopeful Creator, Just starting with Get Coding!]() </h2>
 
 ![Gamer, Hopeful Creator, Just starting with Get Coding!](https://github.com/Gyro-trix/Gyro-trix/blob/main/SimpleBanner.jpg)
 
