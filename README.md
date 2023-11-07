@@ -1,10 +1,16 @@
-<h1> Hi there 👋, Goody Day, my name is Matthew </h1>
+<span style="font-size:32px"> Hi there 👋, Goody Day, my name is Matthew </span>
 
-<h2> ![Gamer, Hopeful Creator, Just starting with Get Coding!]() </h2>
+<h2> Gamer, Hopeful Creator, Just starting with Get Coding! </h2>
 
 ![Gamer, Hopeful Creator, Just starting with Get Coding!](https://github.com/Gyro-trix/Gyro-trix/blob/main/SimpleBanner.jpg)
 
 Eventually I want to either create or help create a game that others can enjoy. Currently I spend my time painting and sketching in my spare time.
+
+Current projects being worked on:
+
+[Match Dungeon](https://gyro-trix.github.io/MatchDungeon/)
+
+[Word Race: 3 Letter Animal](https://gyro-trix.github.io/wordGameTypeOne/) 
 
 Skills: Gamemaker, Adobe Production Suite C6, Unreal 4, Maya
 
