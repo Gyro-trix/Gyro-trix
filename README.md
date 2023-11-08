@@ -8,8 +8,8 @@ Eventually I want to either create or help create a game that others can enjoy. 
 
 <h3>Current projects being worked on:</h3>
 
-[Match Dungeon](https://gyro-trix.github.io/MatchDungeon/) 
-[Word Race: 3 Letter Animal](https://gyro-trix.github.io/wordGameTypeOne/) 
+- [Match Dungeon](https://gyro-trix.github.io/MatchDungeon/) 
+- [Word Race: 3 Letter Animal](https://gyro-trix.github.io/wordGameTypeOne/) 
 
 Skills: Gamemaker, Adobe Production Suite C6, Unreal 4, Maya
 
