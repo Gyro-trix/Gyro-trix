@@ -17,8 +17,27 @@ Skills: Gamemaker, Adobe Production Suite C6, Unreal 4, Maya, HTML, CSS, Javascr
 
 - 🔭 I’m currently working on my Pantry Pal Web App in React
 - 🌱 I’m currently learning React and JavaScript
+- :paintbrush: During my free time I like to paint, write and build model kits
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+***
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matthew-garrett-a2987477/)[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Gyrotrix)[![Wordpress Site](https://skillicons.dev/icons?i=wordpress)]([https://twitter.com/Gyrotrix](https://matthewdgarrett.wordpress.com))
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,react" />
+  </a>
+</p>
+
+***
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matthew-garrett-a2987477/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://twitter.com/Gyrotrix"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+  <a href="https://matthewdgarrett.wordpress.com"><img src="https://skillicons.dev/icons?i=wordpress"/></a>
+  <a href="mailto:cytrix.ng@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+
+</div>
+
+
+
+
 
