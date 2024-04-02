@@ -18,6 +18,7 @@ Skills: Gamemaker, Adobe Production Suite C6, Unreal 4, Maya, HTML, CSS, Javascr
 - 🔭 I’m currently working on my Pantry Pal Web App in React
 - 🌱 I’m currently learning React and JavaScript
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/grey/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Gyrotrix)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://matthewdgarrett.wordpress.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='website' height='40'>](https://www.linkedin.com/in/matthew-garrett-a2987477/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matthew-garrett-a2987477/)[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Gyrotrix)[![Wordpress Site](https://skillicons.dev/icons?i=wordpress)]([https://twitter.com/Gyrotrix](https://matthewdgarrett.wordpress.com))
 
