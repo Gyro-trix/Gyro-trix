@@ -19,5 +19,5 @@ Skills: Gamemaker, Adobe Production Suite C6, Unreal 4, Maya, HTML, CSS, Javascr
 - 🌱 I’m currently learning React and JavaScript
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/x.svg' alt='twitter' height='40'>](https://twitter.com/@Gyrotrix)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://matthewdgarrett.wordpress.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Gyrotrix)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://matthewdgarrett.wordpress.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='website' height='40'>](https://matthewdgarrett.wordpress.com)
 
